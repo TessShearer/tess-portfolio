@@ -62,7 +62,7 @@ function Portfolio() {
                 <div className="col-5 portfolio-apps">
                     <h3>Weather Dashboard</h3>
                     <a href="https://tessshearer.github.io/Weather-Dashboard/" target="_blank" rel="noreferrer"> <img
-                        src={Weather} className="picture-link" alt="The Weather Dashboard Application"/> </a>
+                        src={Weather} className="picture-link" alt="The Weather Dashboard Application" /> </a>
                     <div>
                         <a href="https://github.com/TessShearer/Weather-Dashboard" target="_blank" rel="noreferrer" className="github-link">View Github Repository Here</a>
                     </div>

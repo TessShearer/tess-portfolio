@@ -164,6 +164,10 @@ padding: 20px;
   border-radius: 5px;
 }
 
+.res-pic {
+  padding: 10px;
+}
+
 /* Contact Styles */
 .contact-form {
   background-color: var(--dark-text);

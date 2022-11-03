@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tess-portfolio/static/css/main.52f322f5.css",
+    "main.js": "/tess-portfolio/static/js/main.f61a9ef5.js",
+    "static/js/787.7c3fe878.chunk.js": "/tess-portfolio/static/js/787.7c3fe878.chunk.js",
+    "static/media/afterparty_screenshot.png": "/tess-portfolio/static/media/afterparty_screenshot.91195ec8e2c66296aad3.png",
+    "static/media/karate-screenshot.png": "/tess-portfolio/static/media/karate-screenshot.c7dfa2b30c1d83c3ceec.png",
+    "static/media/wordle-screenshot.png": "/tess-portfolio/static/media/wordle-screenshot.148e0a516d39d11ba602.png",
+    "static/media/Run-Buddy.jpeg": "/tess-portfolio/static/media/Run-Buddy.1a76fbea3a5449b301a3.jpeg",
+    "static/media/Resume_page_2.png": "/tess-portfolio/static/media/Resume_page_2.f8c0a956454bcb529a4f.png",
+    "static/media/Resume_page_1.png": "/tess-portfolio/static/media/Resume_page_1.2a280bb30fcdd99d8f9a.png",
+    "static/media/What-to-watch.png": "/tess-portfolio/static/media/What-to-watch.7ca53c6b395966b052ae.png",
+    "static/media/self.jpg": "/tess-portfolio/static/media/self.9e033ccbd7279f3ef582.jpg",
+    "static/media/Resume.pdf": "/tess-portfolio/static/media/Resume.3fd3c3c6ea68c0fcc1ab.pdf",
+    "static/media/weather-dashboard.png": "/tess-portfolio/static/media/weather-dashboard.e9e118f68fe0449ae7a0.png",
+    "index.html": "/tess-portfolio/index.html",
+    "main.52f322f5.css.map": "/tess-portfolio/static/css/main.52f322f5.css.map",
+    "main.f61a9ef5.js.map": "/tess-portfolio/static/js/main.f61a9ef5.js.map",
+    "787.7c3fe878.chunk.js.map": "/tess-portfolio/static/js/787.7c3fe878.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52f322f5.css",
+    "static/js/main.f61a9ef5.js"
+  ]
+}

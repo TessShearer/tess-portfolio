@@ -10,9 +10,9 @@
 # Description
   Employers would like to be able to easily assess an applicants credibility. I have displayed general about me information, a portfolio, a resume, and contact information all in one place. It is easy to access and navigate and includes links to my profiles on multiple sites. It was made using HTML, CSS, Javascript, and React, which showcases some skills I have as a developer.
 
-![Screenshot of Portfolio](./src/assets/images/reactportfolio.png)
+![Screenshot of Portfolio](./src/assets/images/resume_image.png)
 
-Visit the finished product here: https://tessshearer.github.io/react-portfolio/
+Visit the finished product here: https://tessshearer.github.io/tess-portfolio/
 
 # License
   This project remains unlicensed.
